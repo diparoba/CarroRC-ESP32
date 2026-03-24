@@ -10,8 +10,11 @@ BluetoothSerial SerialBT;
 
 // Motor A (izquierdo)
 //const int AIN1 = 27;
-const int AIN2 = 33;
-const int AIN1 = 25;  // PWM REAL
+
+
+
+const int AIN2 = 12;
+const int AIN1 = 14;  
 
 // Motor B (derecho)
 const int BIN1 = 26;
