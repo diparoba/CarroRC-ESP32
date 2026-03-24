@@ -14,7 +14,7 @@ BluetoothSerial SerialBT;
 
 
 const int AIN2 = 12;
-const int AIN1 = 14;  
+const int AIN1 = 15;  
 
 // Motor B (derecho)
 const int BIN1 = 26;
